@@ -89,5 +89,14 @@ Mobile menu positioning The navigation menu when mobile browsing can be configur
 Going by the above 👆🏻 reason, we recommend adding custom CSS and JS via the custom SASS file (Compose, Clarity) and the custom JS file (Compose, Clarity).</description>
     </item>
     
+    <item>
+      <title>关于供应链的一些思考</title>
+      <link>https://yongxinliang.github.io/docs/clarity/%E5%85%B3%E4%BA%8E%E4%BE%9B%E5%BA%94%E9%93%BE%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+      <pubDate>Sat, 27 May 2023 20:19:20 +0800</pubDate>
+      
+      <guid>https://yongxinliang.github.io/docs/clarity/%E5%85%B3%E4%BA%8E%E4%BE%9B%E5%BA%94%E9%93%BE%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

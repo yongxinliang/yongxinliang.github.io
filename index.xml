@@ -6,6 +6,19 @@
     <description>Recent content in Compose on Compose Docs</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://yongxinliang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Note Daily Master 0527</title>
+      <link>https://yongxinliang.github.io/docs/compose/note0521/</link>
+      <pubDate>Sun, 21 May 2023 23:58:24 +0800</pubDate>
+      
+      <guid>https://yongxinliang.github.io/docs/compose/note0521/</guid>
+      <description>国内经济核心问题 1.国家对私企的态度
+2.国家对互联网企业的定位
+3.国家对房地产、百姓财富的态度，如何软着陆？
+4.出口问题
+目前国内行情感悟 治大国如烙大饼，百姓命如草芥，唯贪官与“专家”橫行，颠倒黑白，真乃倒反天罡之世界。</description>
+    </item>
+    
+    <item>
       <title>Install theme</title>
       <link>https://yongxinliang.github.io/docs/compose/install-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -204,6 +217,15 @@ Mobile menu positioning The navigation menu when mobile browsing can be configur
       <guid>https://yongxinliang.github.io/docs/clarity/theme-overrides/</guid>
       <description>Custom CSS and JS To minimize HTTP requests per page, we would recommend loading CSS styles and JavaScript helpers in single bundles. That is to say, one CSS file and one JavaScript file. Using Hugo minify functions, these files will be minified to optimize the size.
 Going by the above 👆🏻 reason, we recommend adding custom CSS and JS via the custom SASS file (Compose, Clarity) and the custom JS file (Compose, Clarity).</description>
+    </item>
+    
+    <item>
+      <title>关于供应链的一些思考</title>
+      <link>https://yongxinliang.github.io/docs/clarity/%E5%85%B3%E4%BA%8E%E4%BE%9B%E5%BA%94%E9%93%BE%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+      <pubDate>Sat, 27 May 2023 20:19:20 +0800</pubDate>
+      
+      <guid>https://yongxinliang.github.io/docs/clarity/%E5%85%B3%E4%BA%8E%E4%BE%9B%E5%BA%94%E9%93%BE%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+      <description></description>
     </item>
     
     <item>
