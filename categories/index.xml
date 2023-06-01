@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Compose Docs</title>
-    <link>https://yongxinliang.github.io/categories/</link>
+    <link>http://yongxinliang.github.io/categories/</link>
     <description>Recent content in Categories on Compose Docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://yongxinliang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://yongxinliang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://yongxinliang.github.io/categories/development/</link>
+      <link>http://yongxinliang.github.io/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/categories/development/</guid>
+      <guid>http://yongxinliang.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://yongxinliang.github.io/categories/golang/</link>
+      <link>http://yongxinliang.github.io/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/categories/golang/</guid>
+      <guid>http://yongxinliang.github.io/categories/golang/</guid>
       <description></description>
     </item>
     

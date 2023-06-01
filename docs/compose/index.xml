@@ -2,28 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compose Docs</title>
-    <link>https://yongxinliang.github.io/docs/compose/</link>
+    <link>http://yongxinliang.github.io/docs/compose/</link>
     <description>Recent content on Compose Docs</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yongxinliang.github.io/docs/compose/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://yongxinliang.github.io/docs/compose/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Note Daily Master 0527</title>
-      <link>https://yongxinliang.github.io/docs/compose/note0521/</link>
+      <title>Note Daily Master</title>
+      <link>http://yongxinliang.github.io/docs/compose/note0521/</link>
       <pubDate>Sun, 21 May 2023 23:58:24 +0800</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/note0521/</guid>
-      <description>国内经济核心问题 1.国家对私企的态度
+      <guid>http://yongxinliang.github.io/docs/compose/note0521/</guid>
+      <description>2023.5.27 国内经济核心问题 1.国家对私企的态度
 2.国家对互联网企业的定位
 3.国家对房地产、百姓财富的态度，如何软着陆？
 4.出口问题
-目前国内行情感悟 治大国如烙大饼，百姓命如草芥，唯贪官与“专家”橫行，颠倒黑白，真乃倒反天罡之世界。</description>
+2023.5.27 目前国内行情感悟 治大国如烙大饼，百姓命如草芥，唯贪官与“专家”橫行，颠倒黑白，真乃倒反天罡之世界。
+2023.6.1 润 4个月了。</description>
     </item>
     
     <item>
       <title>Install theme</title>
-      <link>https://yongxinliang.github.io/docs/compose/install-theme/</link>
+      <link>http://yongxinliang.github.io/docs/compose/install-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/install-theme/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/install-theme/</guid>
       <description>Prerequisites First ensure that you have hugo installed.
 You need a recent extended version (we recommend version 0.61 or later) of Hugo to do local builds and previews of sites (like this one) that uses this theme.
 If you install from the release page, make sure to get the extended Hugo version, which supports sass; you may need to scroll down the list of releases to see it.
@@ -32,10 +33,10 @@ For comprehensive Hugo documentation, see gohugo.</description>
     
     <item>
       <title>Use forestry CMS</title>
-      <link>https://yongxinliang.github.io/docs/compose/use-forestry-cms/</link>
+      <link>http://yongxinliang.github.io/docs/compose/use-forestry-cms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/use-forestry-cms/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/use-forestry-cms/</guid>
       <description>Do you prefer managing your site using a CMS? Or would you like to make it easier for someone (a non-techie, perhaps) in your team to make edits easily? If interested, follow along. Else, skip to the next section
 Let&#39;s sync your site with forestry CMS.
 Prerequisites !! Obviously you ought to have a github account. This is where your website source will live. Basically, forestry will read from github and write (commmit) to your github repo.</description>
@@ -43,10 +44,10 @@ Prerequisites !! Obviously you ought to have a github account. This is where you
     
     <item>
       <title>Content organization</title>
-      <link>https://yongxinliang.github.io/docs/compose/organize-content/</link>
+      <link>http://yongxinliang.github.io/docs/compose/organize-content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/organize-content/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/organize-content/</guid>
       <description>This theme is primarily meant for documentation.
 Documentation By default, the theme will look for all your documentation content within the docs directory.
 However, if you would like to have your docs content across multiple directories, please list those directories inside config/_default/params.toml under docSections like so:
@@ -55,10 +56,10 @@ However, if you would like to have your docs content across multiple directories
     
     <item>
       <title>Shortcodes</title>
-      <link>https://yongxinliang.github.io/docs/compose/shortcodes/</link>
+      <link>http://yongxinliang.github.io/docs/compose/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/shortcodes/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/shortcodes/</guid>
       <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
 Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
 This way, you can side step complex html and css boilerplate in your content files.
@@ -67,10 +68,10 @@ Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content
     
     <item>
       <title>Search Function</title>
-      <link>https://yongxinliang.github.io/docs/compose/search/</link>
+      <link>http://yongxinliang.github.io/docs/compose/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/search/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/search/</guid>
       <description>Firstly, ensure you have these lines inside your config.toml file
 1[outputs] 2 home = [&amp;#34;HTML&amp;#34;, &amp;#34;RSS&amp;#34;,&amp;#34;JSON&amp;#34;] Compose implements Fuse js or Algolia to enable search functionality. By default Fuse is applied. Algolia can be enabled by adding this settings to config/_default/params.toml file
 1# search 2[search] 3on = true 4global = false 5[search.algolia] 6enable = false # if false search will default to fusejs 7id = &amp;#34;Q40WQQX84U&amp;#34; # Application ID 8index = &amp;#34;compose&amp;#34; # Index name 9key = &amp;#34;da87401a458102ec6bbd6cc5e5cf8d95&amp;#34; # Search-Only API Key Both search engines will display results using the same UI.</description>
@@ -78,10 +79,10 @@ Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content
     
     <item>
       <title>Mermaid</title>
-      <link>https://yongxinliang.github.io/docs/compose/mermaid/</link>
+      <link>http://yongxinliang.github.io/docs/compose/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/mermaid/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/mermaid/</guid>
       <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.
 With compose theme, you can use mermaid using a custom shortcode as follows:
 Sequence Diagrams Syntax
@@ -90,10 +91,10 @@ Sequence Diagrams Syntax
     
     <item>
       <title>Graphs, charts &amp; dynamic tables</title>
-      <link>https://yongxinliang.github.io/docs/compose/graphs-charts-tables/</link>
+      <link>http://yongxinliang.github.io/docs/compose/graphs-charts-tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/graphs-charts-tables/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/graphs-charts-tables/</guid>
       <description>Using chart js library you can display data you have stored in a csv file as a pie chart, bar graph or doughnut chart.
 At this point if you want to display data from a json or yaml file, you would need to convert it into csv first. Else the template will error out.
 Once you have a csv file, you display the charts as follows:
@@ -102,10 +103,10 @@ Show a pie, doughnut &amp;amp; bar chart at once Firstly define the data you wan
     
     <item>
       <title>Customize layouts &amp; components</title>
-      <link>https://yongxinliang.github.io/docs/compose/customize/</link>
+      <link>http://yongxinliang.github.io/docs/compose/customize/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/customize/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/customize/</guid>
       <description>Shortcodes modifiers These modifiers are classes you can use with shortcodes to customize the look and feel of your layouts and components.
 Grid modifier space grid-2 2 columns grid-3 3 columns grid-4 4 columns Spacing modifier space mt-1 1.5rem top margin mt-2 3rem top margin mt-3 4.5rem top margin mt-4 6rem top margin use pt-1 ~ pt-4 for top padding
 modifier space mb-1 1.5rem bottom margin mb-2 3rem bottom margin mb-3 4.</description>
@@ -113,14 +114,23 @@ modifier space mb-1 1.5rem bottom margin mb-2 3rem bottom margin mb-3 4.</descri
     
     <item>
       <title>Leverage Github actions</title>
-      <link>https://yongxinliang.github.io/docs/compose/github-actions/</link>
+      <link>http://yongxinliang.github.io/docs/compose/github-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongxinliang.github.io/docs/compose/github-actions/</guid>
+      <guid>http://yongxinliang.github.io/docs/compose/github-actions/</guid>
       <description>This theme ships with 2 github actions inside the exampleSite folder:
 AWS CI Algolia CI AWS CI This helps you to autodeploy your hugo website from github to an AWS s3 bucket. Set the secrets in the action accordingly and voila.
 Algolia CI This action will automatically update your algolia search index. No extra npm manual setup will be needed.
 These actions are customizable to fire off under your specified set of circumstances.</description>
+    </item>
+    
+    <item>
+      <title>保证数据的一致性</title>
+      <link>http://yongxinliang.github.io/docs/compose/%E4%BF%9D%E8%AF%81%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7/</link>
+      <pubDate>Sun, 28 May 2023 10:05:19 +0800</pubDate>
+      
+      <guid>http://yongxinliang.github.io/docs/compose/%E4%BF%9D%E8%AF%81%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7/</guid>
+      <description></description>
     </item>
     
   </channel>
